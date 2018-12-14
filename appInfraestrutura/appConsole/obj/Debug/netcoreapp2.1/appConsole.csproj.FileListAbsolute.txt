@@ -1,0 +1,14 @@
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appConsole.deps.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appConsole.runtimeconfig.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appConsole.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appConsole.dll
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appConsole.pdb
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appInfraestrutura.dll
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\bin\Debug\netcoreapp2.1\appInfraestrutura.pdb
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.dll
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appConsole\obj\Debug\netcoreapp2.1\appConsole.pdb

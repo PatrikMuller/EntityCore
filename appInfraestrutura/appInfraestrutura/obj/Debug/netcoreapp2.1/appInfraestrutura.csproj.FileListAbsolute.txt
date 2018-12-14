@@ -1,0 +1,11 @@
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\bin\Debug\netcoreapp2.1\appInfraestrutura.deps.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\bin\Debug\netcoreapp2.1\appInfraestrutura.dll
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\bin\Debug\netcoreapp2.1\appInfraestrutura.runtimeconfig.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\bin\Debug\netcoreapp2.1\appInfraestrutura.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\bin\Debug\netcoreapp2.1\appInfraestrutura.pdb
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.dll
+C:\Users\User\Documents\GitHub\EntityCore\appInfraestrutura\appInfraestrutura\obj\Debug\netcoreapp2.1\appInfraestrutura.pdb
